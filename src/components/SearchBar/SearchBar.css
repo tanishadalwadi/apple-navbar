@@ -1,0 +1,16 @@
+.search{
+    display: flex;
+    flex-direction: row;
+}
+.searchTerm{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    width: 643px;
+    height: inherit;
+    outline: none;
+    color: #fff;
+    background-color: transparent;
+    border: none;
+    overflow: hidden;
+    white-space: nowrap;
+
+}
